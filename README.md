@@ -76,4 +76,4 @@ Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vis
 Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-FCA121?style=for-the-badge&logo=draw.io&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-003d56?style=for-the-badge&logo=apache-netbeans&logoColor=white)#
+![NetBeans](https://img.shields.io/badge/NetBeans-003d56?style=for-the-badge&logo=apache-netbeans&logoColor=white)
