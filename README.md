@@ -24,13 +24,18 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rmdhnrzs)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramadhan.rizki@example.com)
 
+# Github Charts
 
 
+# Most Language Used 🔥
 ![Top
 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmdhnrzs&layout=compact&hide_border=true)
+
+# My Contribution in Github
 ![Your
 contributions](https://github-readme-stats.vercel.app/api?username=rmdhnrzs&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
 
+# Top Repository💯
 ![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=rmdhnrzs&repo=cek_khodam&theme=light)
 
 
