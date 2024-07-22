@@ -3,11 +3,6 @@
 
 <br>
 
-<style>
-    body {
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    }
-</style>
 <h1
     style="font-size:35px; font-weight:700; text-align:center; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
     Hi, I'm Ramadhan Rizki Saputra </h1>
