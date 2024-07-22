@@ -1,5 +1,5 @@
-<img src="https://static.myfigurecollection.net/upload/pictures/2022/09/19/3262581.gif" alt="GIF Banner"
-    style="width: 100%;">
+<img src="https://static.myfigurecollection.net/upload/pictures/2022/09/19/3262581.gif" alt="GIF Banner" style="width: 100%; height: auto;">
+
 
 <br>
 
