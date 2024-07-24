@@ -29,26 +29,21 @@
 
 ## Overview 
 
+[![rmdhnrzs github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rmdhnrzs&theme=github-compact)](https://github.com/rmdhnrzs/github-readme-activity-graph)
+
 <br>
+
+## Most Language & Top Projects💯
 
 <table align="center">
     <tr>
         <th>Most Used Languages 🔥</th>
+        <th>Top Projects 💯</th>
     </tr>
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmdhnrzs&layout=compact&theme=vue-dark&hide_border=true" />
         </td>
-    </tr>
-</table>
-
-<br>
-
-<table align="center">
-    <tr>
-        <th>Top Repository 💯</th>
-    </tr>
-    <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=rmdhnrzs&repo=cek_khodam&theme=vue-dark&show_owner=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
         </td>
@@ -57,30 +52,37 @@
 
 <br>
 
-<table align="center">
+## My trophies on github🏆
+
+ <table align="center">
     <tr>
-        <th>My Contribution 🔥</th>
+        <th>My Trophies🔥</th>
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=rmdhnrzs&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=vue-dark&hide_border=true" />
+            <img src="https://github-profile-trophy.vercel.app/?username=rmdhnrzs&theme=radical" />
         </td>
     </tr>
 </table>
 
 <br>
 
+## Github Streak & Contribution🔥
+
 <table align="center">
     <tr>
         <th>Github Streak Stats 💯</th>
+        <th>My Contribution 🔥</th>
     </tr>
     <tr>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com?user=rmdhnrzs&theme=vue-dark&hide_border=true" />
         </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=rmdhnrzs&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=vue-dark&hide_border=true" />
+        </td>
     </tr>
 </table>
-
 
 <br>
 
