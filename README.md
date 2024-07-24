@@ -1,4 +1,4 @@
-<div style="text-align: center; width: 100%;">
+<div style="text-align: center; width: 1000% !important;">
     <img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/nezuko-glowing-eyes-demon-slayer-gif-desktop-wallpaper-cover.gif" alt="GIF Banner" style="width: 100%; height: auto;">
 </div>
 
@@ -23,14 +23,36 @@
 
 # GitHub Charts
 
-# Most Language Used 🔥
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmdhnrzs&layout=compact&hide_border=true)
+<table>
+    <tr>
+        <th>My Contribution🔥</th>
+        <th>Github Streak Stats💯</th>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rmdhnrzs&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=vue-dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=rmdhnrzs&theme=vue-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-# My Contribution in GitHub
-![Your contributions](https://github-readme-stats.vercel.app/api?username=rmdhnrzs&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
+<br>
 
-# Top Repository 💯
-![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=rmdhnrzs&repo=cek_khodam&theme=light)
+<table>
+    <tr>
+        <th>Most Used Languages 🔥</th>
+        <th>Top Repository 💯</th>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmdhnrzs&layout=compact&theme=vue-dark&hide_border=true" />
+    </td>
+    <td>
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rmdhnrzs&repo=cek_khodam&theme=radical&show_owner=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
