@@ -1,5 +1,5 @@
 <div style="text-align: center; width: 1000% !important;" align="center">
-    <img src="https://static.myfigurecollection.net/upload/pictures/2022/09/19/3262581.gif" alt="GIF Banner" width="1000">
+    <img src="https://www.icegif.com/wp-content/uploads/2022/06/icegif-562.gif" alt="GIF Banner" width="1000">
 </div>
 
 <br>
