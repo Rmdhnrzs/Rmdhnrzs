@@ -9,7 +9,6 @@
 </h1>
 
 <h2 style="text-align: center;">💻 Fullstack Developer | 🌐 Web Developer | 👨‍💻 Freelancer</h2>
-<br>
 
 <h3 style="text-align: justify;">Welcome to my GitHub profile! I am Ramadhan Rizki Saputra, a dedicated Fullstack Developer with a strong foundation in building dynamic, responsive web applications. I am passionate about solving complex problems and turning innovative ideas into reality through code.</h3>
 <br>
