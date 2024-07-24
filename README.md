@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://static.myfigurecollection.net/upload/pictures/2022/09/19/3262581.gif" alt="GIF Banner" style="width: 100%;">
+    <img src="https://static.myfigurecollection.net/upload/pictures/2022/09/19/3262581.gif](https://i.pinimg.com/originals/9b/24/d8/9b24d8e061724d911ee1b465b34ad44a.gif" alt="GIF Banner" style="width: 1000px;">
 </div>
 
 <br>
