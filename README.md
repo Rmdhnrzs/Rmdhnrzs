@@ -1,20 +1,17 @@
-![GIF Banner](https://static.myfigurecollection.net/upload/pictures/2022/09/19/3262581.gif)
-
-
+<div style="text-align: center;">
+    <img src="https://static.myfigurecollection.net/upload/pictures/2022/09/19/3262581.gif" alt="GIF Banner" style="width: 100%;">
+</div>
 
 <br>
 
-<h1
-    style="font-size:35px; font-weight:700; text-align:center; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
-    Hi, I'm Ramadhan Rizki Saputra </h1>
+<h1 style="font-size: 35px; font-weight: 700; text-align: center; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
+    Hi, I'm Ramadhan Rizki Saputra
+</h1>
 
 <h2 style="text-align: center;">💻 Fullstack Developer | 🌐 Web Developer | 👨‍💻 Freelancer</h2>
 <br>
 
-<h3 style="text-align: justify;">Welcome to my GitHub profile! I am Ramadhan Rizki Saputra, a dedicated Fullstack
-    Developer with a strong foundation in building dynamic, responsive web applications. I am passionate about solving
-    complex problems and turning innovative ideas into reality through code.
-</h3>
+<h3 style="text-align: justify;">Welcome to my GitHub profile! I am Ramadhan Rizki Saputra, a dedicated Fullstack Developer with a strong foundation in building dynamic, responsive web applications. I am passionate about solving complex problems and turning innovative ideas into reality through code.</h3>
 <br>
 
 # 📬 Contact Us
@@ -24,21 +21,16 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rmdhnrzs)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramadhan.rizki@example.com)
 
-# Github Charts
-
+# GitHub Charts
 
 # Most Language Used 🔥
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmdhnrzs&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmdhnrzs&layout=compact&hide_border=true)
 
-# My Contribution in Github
-![Your
-contributions](https://github-readme-stats.vercel.app/api?username=rmdhnrzs&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
+# My Contribution in GitHub
+![Your contributions](https://github-readme-stats.vercel.app/api?username=rmdhnrzs&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
 
-# Top Repository💯
+# Top Repository 💯
 ![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=rmdhnrzs&repo=cek_khodam&theme=light)
-
-
 
 <br>
 
@@ -54,7 +46,6 @@ contributions](https://github-readme-stats.vercel.app/api?username=rmdhnrzs&show
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 
 # Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -73,12 +64,9 @@ contributions](https://github-readme-stats.vercel.app/api?username=rmdhnrzs&show
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 # Applications
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio
-Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Sublime
-Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-FCA121?style=for-the-badge&logo=draw.io&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-003d56?style=for-the-badge&logo=apache-netbeans&logoColor=white)
