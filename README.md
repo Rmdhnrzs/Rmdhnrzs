@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://i.pinimg.com/originals/9b/24/d8/9b24d8e061724d911ee1b465b34ad44a.gif" alt="GIF Banner" style="width: 1000px;">
+    <img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/nezuko-glowing-eyes-demon-slayer-gif-desktop-wallpaper-cover.gif" alt="GIF Banner" style="width: 1000%;">
 </div>
 
 <br>
