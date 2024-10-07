@@ -6,7 +6,7 @@
     Hi👋, I'm Ramadhan Rizki Saputra
 </h1>
 
-<h3 align="center">💻 Fullstack Developer | 🌐 Tech Enthusiast | 👨‍💻 Freelancer</h3>
+<h3 align="center">💻 Fullstack Multi-platform Developer | 🌐 Tech Enthusiast | 👨‍💻 Freelancer</h3>
 
 <h4 align="justify">
     Hello, I am Ramadhan Rizki Saputra, a passionate Software Engineer dedicated to exploring and mastering the world of coding. I am an alumnus of SMK Telkom Jakarta, specializing in Software Engineering. Throughout my career, I have developed various dynamic web applications and successfully managed projects.
