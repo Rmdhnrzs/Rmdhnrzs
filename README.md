@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" border="rounded">
     <img src="https://i.pinimg.com/originals/a9/e7/c2/a9e7c204d9057659a1b7696a183101d7.gif" alt="GIF Banner" width="800" height="250">
 </div>
 
