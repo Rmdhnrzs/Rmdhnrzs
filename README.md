@@ -20,6 +20,8 @@
     If you're interested in collaborating or just want to discuss technology, feel free to reach out!
 </h4>
 
+![Total Commits Today](https://img.shields.io/badge/Total%20Commits%20Today-0-brightgreen)
+
 ## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramadhan-rizki-saputra/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rmdhnrzs/)
