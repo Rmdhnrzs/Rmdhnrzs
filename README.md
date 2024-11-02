@@ -5,7 +5,6 @@
 <h1 align="center" style="font-size: 35px; font-weight: 700; text-align: center; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
     Hi👋, I'm Ramadhan Rizki Saputra
 </h1>
-=======================
 
 <h3 align="center">💻 Fullstack Multi-platform Developer | 🌐 Tech Enthusiast | 👨‍💻 Cyber Security Enthusiast</h3>
 
