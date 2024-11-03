@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.pinimg.com/originals/a9/e7/c2/a9e7c204d9057659a1b7696a183101d7.gif" alt="GIF Banner" style="border: 20px solid #ffffff; border-radius: 20px; width: 800px; height: 250px;">
+    <img src="https://i.pinimg.com/originals/a9/e7/c2/a9e7c204d9057659a1b7696a183101d7.gif" alt="GIF Banner" style="border: 20px solid #ffffff; border-radius: 20px; width: 1800px; height: 250px;">
 </div>
 
 <h1 align="center" style="font-size: 35px; font-weight: 700; text-align: center; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
