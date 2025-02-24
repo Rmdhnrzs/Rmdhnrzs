@@ -3,11 +3,12 @@
      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/bbefa799786133.5efa9bf3d1b49.gif" alt="GIF Banner" style="border: 20px solid #ffffff; border-radius: 20px; width: 1800px; height: 300px;">  
 </div>
 
-<h1 align="center" style="font-size: 35px; font-weight: 700; text-align: center; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
-    Hi👋, I'm Ramadhan Rizki Saputra
-</h1>
-
+<h1 align="center">Hi 👋, I'm Ramadhan Rizki Saputra</h1>
 <h3 align="center">💻 Fullstack Multi-platform Developer | 🌐 Tech Enthusiast | 👨‍💻 Cyber Security Enthusiast</h3>
+
+<p align="center">
+  <img src="https://source.unsplash.com/1600x500/?technology,coding" alt="Banner">
+</p>
 
 <h4 align="justify">
     Hello, I am Ramadhan Rizki Saputra, a passionate Software Engineer dedicated to exploring and mastering the world of coding. I am an alumnus of SMK Telkom Jakarta, specializing in Software Engineering. Throughout my career, I have developed various dynamic web applications and successfully managed projects.
