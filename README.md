@@ -6,9 +6,12 @@
 <h1 align="center">Hi 👋, I'm Ramadhan Rizki Saputra</h1>
 <h3 align="center">💻 Fullstack Multi-platform Developer | 🌐 Tech Enthusiast | 👨‍💻 Cyber Security Enthusiast</h3>
 
-<p align="center">
-  <img src="https://source.unsplash.com/1600x500/?technology,coding" alt="Banner">
-</p>
+## 👨‍💻 About Me  
+- 🎓 Alumni **SMK Telkom Jakarta** (Software Engineering)  
+- 🔥 Passionate in **Web Development** (Laravel, Bootstrap)  
+- 🏢 Ex **Operations - Fullstack Developer** (6 months)  
+- 📚 Love **coding & reading** technology-related books  
+- 💡 Always exploring **new tech & innovation**  
 
 <h4 align="justify">
     Hello, I am Ramadhan Rizki Saputra, a passionate Software Engineer dedicated to exploring and mastering the world of coding. I am an alumnus of SMK Telkom Jakarta, specializing in Software Engineering. Throughout my career, I have developed various dynamic web applications and successfully managed projects.
