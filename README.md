@@ -3,16 +3,7 @@
 <!--      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/bbefa799786133.5efa9bf3d1b49.gif" alt="GIF Banner" style="border: 20px solid #ffffff; border-radius: 20px; width: 1800px; height: 300px;">   -->
     
 <!-- <img src="https://media.giphy.com/media/IwSG1QKOwDjQk/giphy.gif" width="160" alt="Pac-Man GIF"/> -->
-<p align="center">
-  <!-- SVG Pac-Man Animation -->
-  <svg viewBox="0 0 100 100" width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="50" cy="50" r="40" fill="yellow" />
-    <path d="M50 50 L90 30 A40 40 0 1 0 90 70 Z" fill="black">
-      <animateTransform attributeName="transform" attributeType="XML" type="rotate"
-        values="0 50 50; 45 50 50; 0 50 50" dur="0.5s" repeatCount="indefinite"/>
-    </path>
-  </svg>
-</p>
+ <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/pacman.gif" width="160" alt="Pac-Man GIF"/>
 
 </div>
 
