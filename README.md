@@ -1,8 +1,7 @@
 <div align="center">
 <!--     <img src="https://i.pinimg.com/originals/a9/e7/c2/a9e7c204d9057659a1b7696a183101d7.gif" alt="GIF Banner" style="border: 20px solid #ffffff; border-radius: 20px; width: 1800px; height: 250px;"> -->
 <!--      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/bbefa799786133.5efa9bf3d1b49.gif" alt="GIF Banner" style="border: 20px solid #ffffff; border-radius: 20px; width: 1800px; height: 300px;">   -->
-   ![Pac-Man](assets/pacman.gif)
-
+<img src="https://media.giphy.com/media/IwSG1QKOwDjQk/giphy.gif" width="160" alt="Pac-Man GIF"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Ramadhan Rizki Saputra</h1>
