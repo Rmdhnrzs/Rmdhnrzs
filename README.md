@@ -41,25 +41,6 @@
 
 <br>
 
-## Most Language & Top Projects💯
-
-<table align="center">
-    <tr>
-        <th>Most Used Languages 🔥</th>
-        <th>Top Projects 💯</th>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmdhnrzs&layout=compact&theme=vue-dark&hide_border=true" />
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rmdhnrzs&repo=cek_khodam&theme=vue-dark&show_owner=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
-        </td>
-    </tr>
-</table>
-
-<br>
-
 ## My trophies on github🏆
 
  <table align="center">
@@ -80,14 +61,10 @@
 <table align="center">
     <tr>
         <th>Github Streak Stats 💯</th>
-        <th>My Contribution 🔥</th>
     </tr>
     <tr>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com?user=rmdhnrzs&theme=vue-dark&hide_border=true" />
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=rmdhnrzs&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=vue-dark&hide_border=true" />
         </td>
     </tr>
 </table>
