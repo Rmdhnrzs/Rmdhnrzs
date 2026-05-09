@@ -8,28 +8,29 @@
 
 
 <h4 align="justify">
-Hi, I'm Ramadhan Rizki Saputra — a Software Engineer who enjoys building scalable, clean, and user-focused applications. I started my journey from SMK Telkom Jakarta, majoring in Software Engineering, and since then I’ve continued exploring modern web technologies through real-world projects, system development, and continuous learning.
+Hi, I'm Ramadhan Rizki Saputra, a Software Engineer who enjoys building scalable, clean, and user-focused applications. I started my journey at SMK Telkom Jakarta, majoring in Software Engineering, and since then I’ve continued exploring modern web technologies through real-world projects, system development, and continuous learning.
 <br><br>
-I mainly work on fullstack web development using technologies such as React.js, Next.js, Vite.js, Express.js, Laravel, and modern JavaScript ecosystems. I enjoy turning complex problems into efficient, maintainable, and practical solutions — whether it's building dashboards, internal systems, APIs, realtime features, or business-oriented applications.
+I mainly work on fullstack web development using technologies such as React.js, Next.js, Vite.js, Express.js, Laravel, and modern JavaScript ecosystems. I enjoy turning complex problems into efficient, maintainable, and practical solutions, whether it’s building dashboards, APIs, internal systems, realtime features, or business-oriented applications.
 <br><br>
-Previously, I worked as an Operations - Fullstack Developer, where I was involved in developing and maintaining company systems while also understanding operational workflows and real business needs. That experience helped me improve not only technically, but also in problem solving, system thinking, and collaboration.
+Previously, I worked as an Operations Fullstack Developer, where I was involved in developing and maintaining company systems while also understanding operational workflows and real business needs. That experience helped me grow not only technically, but also in problem solving, communication, and system thinking.
 <br><br>
-Beyond coding, I enjoy learning about technology, system architecture, UI/UX patterns, business processes, and software best practices. I believe great software is not only about writing code, but also about creating impactful, reliable, and scalable solutions.
+Beyond coding, I enjoy learning about technology, software architecture, UI/UX patterns, business processes, and modern development practices. I believe great software is not only about writing code, but also about creating impactful, reliable, and scalable solutions that are genuinely useful.
 <br><br>
-I like keeping my GitHub profile clean, professional, and representative of the technologies I actively use. Most of my repositories focus on web development, modern frontend experiences, backend systems, APIs, dashboards, and experimental projects.
+I like keeping my GitHub profile clean, professional, and representative of the technologies I actively use. Most of my repositories focus on web development, backend systems, frontend experiences, APIs, dashboards, automation, and experimental projects.
 <br><br>
-I'm always open to collaboration, learning opportunities, and meaningful discussions about technology, software engineering, and innovation.
+I’m always open to collaboration, learning opportunities, and meaningful discussions about technology and software engineering.
 </h4>
 
 ## 👨‍💻 About Me
-- 🎓 Alumni of **SMK Telkom Jakarta** — Software Engineering
-- ⚡ Fullstack Web Developer focused on modern JavaScript ecosystem
-- 🚀 Experienced with **React.js, Next.js, Vite.js, Express.js, Laravel**, and REST APIs
-- 🧠 Interested in **System Architecture, UI/UX, Performance, and Scalable Applications**
-- 🏢 Former **Operations - Fullstack Developer**
-- 💡 Enjoy building dashboards, internal systems, realtime apps, and business solutions
-- 📚 Passionate about continuous learning, technology, and problem solving
-- 🔥 Always exploring modern tools, best practices, and new technologies
+
+🎓 Alumni of **SMK Telkom Jakarta** majoring in Software Engineering  
+⚡ Fullstack Web Developer focused on modern JavaScript ecosystem  
+🚀 Experienced with **React.js, Next.js, Vite.js, Express.js, Laravel**, and REST APIs  
+🧠 Interested in System Architecture, UI/UX, Performance, and Scalable Applications  
+🏢 Former Operations Fullstack Developer  
+💡 Enjoy building dashboards, internal systems, realtime apps, and business solutions  
+📚 Passionate about continuous learning, technology, and problem solving  
+🔥 Always exploring modern tools, best practices, and new technologies
  
 
 ![Total Commits Today](https://img.shields.io/badge/Total%20Commits%20Today-0-brightgreen)
