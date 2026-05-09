@@ -8,23 +8,29 @@
 
 
 <h4 align="justify">
-    Hello, I am Ramadhan Rizki Saputra, a passionate Software Engineer dedicated to exploring and mastering the world of coding. I am an alumnus of SMK Telkom Jakarta, specializing in Software Engineering. Throughout my career, I have developed various dynamic web applications and successfully managed projects.
-    <br><br>
-    My main interest lies in web development, particularly using the Laravel and Bootstrap frameworks. During my 6-month tenure as an Operations - Fullstack Developer, I successfully developed a company's website, enhancing my technical skills in application development.
-    <br><br>
-    My hobbies include coding and reading. I thoroughly enjoy diving into code to create innovative solutions and expanding my knowledge through technology-related literature.
-    <br><br>
-    On GitHub, I like to showcase a well-structured profile, including badges for various frameworks, programming languages, tools, and technologies I use. I also ensure that all graphics and images in my profile display well in dark mode to match GitHub's theme.
-    <br><br>
-    If you're interested in collaborating or just want to discuss technology, feel free to reach out!
+Hi, I'm Ramadhan Rizki Saputra — a Software Engineer who enjoys building scalable, clean, and user-focused applications. I started my journey from SMK Telkom Jakarta, majoring in Software Engineering, and since then I’ve continued exploring modern web technologies through real-world projects, system development, and continuous learning.
+<br><br>
+I mainly work on fullstack web development using technologies such as React.js, Next.js, Vite.js, Express.js, Laravel, and modern JavaScript ecosystems. I enjoy turning complex problems into efficient, maintainable, and practical solutions — whether it's building dashboards, internal systems, APIs, realtime features, or business-oriented applications.
+<br><br>
+Previously, I worked as an Operations - Fullstack Developer, where I was involved in developing and maintaining company systems while also understanding operational workflows and real business needs. That experience helped me improve not only technically, but also in problem solving, system thinking, and collaboration.
+<br><br>
+Beyond coding, I enjoy learning about technology, system architecture, UI/UX patterns, business processes, and software best practices. I believe great software is not only about writing code, but also about creating impactful, reliable, and scalable solutions.
+<br><br>
+I like keeping my GitHub profile clean, professional, and representative of the technologies I actively use. Most of my repositories focus on web development, modern frontend experiences, backend systems, APIs, dashboards, and experimental projects.
+<br><br>
+I'm always open to collaboration, learning opportunities, and meaningful discussions about technology, software engineering, and innovation.
 </h4>
 
-## 👨‍💻 About Me  
-- 🎓 Alumni **SMK Telkom Jakarta** (Software Engineering)  
-- 🔥 Passionate in **Web Development** (Laravel, Bootstrap)  
-- 🏢 Ex **Operations - Fullstack Developer** (6 months)  
-- 📚 Love **coding & reading** technology-related books  
-- 💡 Always exploring **new tech & innovation**  
+## 👨‍💻 About Me
+- 🎓 Alumni of **SMK Telkom Jakarta** — Software Engineering
+- ⚡ Fullstack Web Developer focused on modern JavaScript ecosystem
+- 🚀 Experienced with **React.js, Next.js, Vite.js, Express.js, Laravel**, and REST APIs
+- 🧠 Interested in **System Architecture, UI/UX, Performance, and Scalable Applications**
+- 🏢 Former **Operations - Fullstack Developer**
+- 💡 Enjoy building dashboards, internal systems, realtime apps, and business solutions
+- 📚 Passionate about continuous learning, technology, and problem solving
+- 🔥 Always exploring modern tools, best practices, and new technologies
+ 
 
 ![Total Commits Today](https://img.shields.io/badge/Total%20Commits%20Today-0-brightgreen)
 
